@@ -5,8 +5,8 @@
   <li>Web developer: Andriy Ovcharov</li>
   <li>Development date: 12.12.2023</li>
   <li>
-    <p>Brief description</p>
-    <p>The landing page website is dedicated to different types of tea.</p>
+    <p>Brief description:</p>
+    <p>The site is dedicated to water sports and recreation using surfing.</p>
   </li>
 </ul>
 
