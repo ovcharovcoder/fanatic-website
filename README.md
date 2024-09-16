@@ -8,7 +8,6 @@
     <p>Brief description:</p>
     <p>The site is dedicated to water sports and recreation using surfing.</p>
   </li>
-  <li>The source files for this site are located at: https://github.com/ovcharovcoder/fanatic-project-src</li>
 </ul>
 
 <img src="Screenshot.png" alt="screensot">
