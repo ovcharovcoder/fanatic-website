@@ -8,6 +8,7 @@
     <p>Brief description:</p>
     <p>The site is dedicated to water sports and recreation using surfing.</p>
   </li>
+<li>View website: https://ovcharovcoder.github.io/fanatic-frontend</li>
 </ul>
 
 <img src="Screenshot.png" alt="screensot">
