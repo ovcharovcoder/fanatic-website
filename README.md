@@ -1,7 +1,7 @@
 # fanatic-frontend
 <h2>About</h2>
 <ul>
-  <li>Site name: Fanatic</li>
+  <li>Site name: "Fanatic"</li>
   <li>Web developer: Andriy Ovcharov</li>
   <li>Development date: 12.12.2023</li>
   <li>
