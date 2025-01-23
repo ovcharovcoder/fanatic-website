@@ -1,4 +1,4 @@
-# fanatic-frontend
+<h1>Website "Fanatic"</h1>
 <h2>About</h2>
 <ul>
   <li>Site name: "Fanatic";</li>
