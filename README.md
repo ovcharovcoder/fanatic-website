@@ -9,7 +9,7 @@
     <p>The site is dedicated to water sports and recreation using surfing.</p>
   </li>
   <li>View source files: https://github.com/ovcharovcoder/fanatic-front-project-src</li>
-<li>View website: https://ovcharovcoder.github.io/fanatic-frontend</li>
+<li>View website: https://ovcharovcoder.github.io/fanatic-website</li>
 </ul>
 
 <img src="Screenshot.png" alt="screensot">
